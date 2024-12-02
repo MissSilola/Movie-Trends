@@ -56,4 +56,4 @@ This project analyzes a movie dataset to uncover trends in genres, ratings, and 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://
+   git clone https://https://github.com/MissSilola/Movie-Trends
